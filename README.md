@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Vedudaking
-- 👀 I’m interested in Gaming, and depressing music
+- 👀 I’m interested in Gaming, and music
 - 🌱 I’m currently learning how to code :)
 - 💞️ I’m looking to collaborate on FTC
 - 📫 How to reach me You thought i would give my email? odr my number?
 - 😄 Pronouns: he,him
-- ⚡ Fun fact: Depressing music is sad :)
+- ⚡ Fun fact:
 
 <!---
 Vedudaking/Vedudaking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
